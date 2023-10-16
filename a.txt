@@ -1,3 +1,4 @@
 friday
 monday
-
+tuesday
+wednesday
